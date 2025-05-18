@@ -1,3 +1,50 @@
+Laravel Event Management System
+This is a Laravel-based web application developed by our team. The system allows full CRUD operations (Create, Read, Update, Delete) for managing events and user interactions.
+
+Features
+User registration and management
+
+Event creation and editing
+
+Ticket creation and assignment
+
+Notification system for events
+
+Ticket purchasing system
+
+Event history and logs
+
+Main Database Tables
+users – stores user data
+
+event – contains event information
+
+notification – stores event-related notifications
+
+ticket – handles ticket types and availability
+
+buys – links users with the tickets they purchased
+
+event_creation – logs created events and related info
+
+Project Summary
+We worked together as a team to design and implement this system. The goal was to practice Laravel basics and apply CRUD operations across different tables. Every team member contributed to building and testing the features, designing the database structure, and ensuring the system works smoothly.
+by:
+Abdallah Saleh
+Qais Shaath
+Raghad Abdelhaq
+Hadi Haj Ali
+Noor Mashaqi
+Amjad Nassar
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
